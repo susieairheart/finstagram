@@ -1,3 +1,6 @@
+font-family: 'Open Sans', sans-serif;
+font-family: 'Lora', serif;
+
 header {
     background-color: #244751; 
     color: #E8FDFF;
@@ -14,4 +17,7 @@ main {
 }
 .post .user-info img {
     border-radius:50%;
+}
+:link:hover {
+    color: #244751;
 }
